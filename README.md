@@ -6,7 +6,15 @@
 
 Swop's **desired** functionalities:
 
-- [ ] 
+- [ ] users have profiles
+- [ ] users post photos of items
+- [ ] each item has it's own page
+- [ ] search view- "hot" "popular" "new"
+- [ ] tagging
+- [ ] in app chat maybe
+- [ ] log in using oauth
+- [ ] tindr matchy swap thing
+- [ ] create events/meetups
 
 ## Video Walkthrough 
 
