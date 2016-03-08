@@ -4,7 +4,7 @@
 
 ## User Stories
 
-Swop's **desired** functionalities:
+Swop's **required** functionality is completed:
 
 - [ ] users have profiles
 - [ ] users post photos of items
@@ -15,6 +15,10 @@ Swop's **desired** functionalities:
 - [ ] log in using oauth
 - [ ] tindr matchy swap thing
 - [ ] create events/meetups
+
+Swop's **optional** features are implemented:
+
+Swop's **additional** features are implemented:
 
 ## Video Walkthrough 
 
