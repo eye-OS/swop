@@ -22,17 +22,56 @@ Swop's **additional** features are implemented:
 
 - [ ] create events/meetups
 
-##Tables and Columns needed in Parse
+## API's
 
-- [ ] User
-- [ ] Profile
-- [ ] Inventory
-- [ ] Wishlist
-- [ ] Item
-- [ ] Tags
-- [ ] "Swopping cart"
-- [ ] Categories
-- [ ] Messages
+Swop will use these API's
+
+## Data Definitions
+
+**User**
+
+| UserId | UserName | UserPswd |
+|--------|----------|-----------------|
+
+**Profile**
+
+| UserId | FirstName | LastName | Email | Campus | Age | PhoneNumber |
+|--------|----------|-----------------|-----------|---|---|----------|
+
+**Item**
+
+| ItemId | ItemName | ItemDescription | ItemImage | ItemStatus | CategoryId |
+|--------|----------|-----------------|-----------|------------|------------|
+
+**Inventory**
+
+| InventoryId | ItemId |
+|--------|----------|
+
+**"Swopping Cart"**
+
+| SwoppingCartId | Item1 | Item2 | Status |
+|--------|----------|-----------------|-----------|
+
+**Wishlist**
+
+| UserId | ItemId |
+|--------|----------|
+
+**Category**
+
+| CategoryId | CategoryName | CategoryDescription |
+|--------|----------|-----------------|
+
+**Chat**
+
+| ChatId | UserId |
+|--------|----------|
+
+**Message**
+
+| MessageId | UserId | ChatId |
+|--------|----------|-----------------|
 
 ## Video Walkthrough 
 
