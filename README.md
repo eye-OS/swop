@@ -10,15 +10,29 @@ Swop's **required** functionality is completed:
 - [ ] users post photos of items
 - [ ] each item has it's own page
 - [ ] search view- "hot" "popular" "new"
+
+Swop's **optional** features are implemented:
+
 - [ ] tagging
 - [ ] in app chat maybe
 - [ ] log in using oauth
 - [ ] tindr matchy swap thing
-- [ ] create events/meetups
-
-Swop's **optional** features are implemented:
 
 Swop's **additional** features are implemented:
+
+- [ ] create events/meetups
+
+##Tables and Columns needed in Parse
+
+- [ ] User
+- [ ] Profile
+- [ ] Inventory
+- [ ] Wishlist
+- [ ] Item
+- [ ] Tags
+- [ ] "Swopping cart"
+- [ ] Categories
+- [ ] Messages
 
 ## Video Walkthrough 
 
